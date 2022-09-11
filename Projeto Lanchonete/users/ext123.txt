@@ -1,0 +1,14 @@
+1
+0
+2
+0
+0
+0
+0
+Nome: Caio
+CPF: 123
+Total = 25.00 
+11/09/2022 11:49
+Itens do pedido:
+1 - X-Salada         - Preço unitário: R$10.00  Valor: + 10.00
+2 - Cachorro Quente         - Preço unitário: R$7.50  Valor: + 15.00

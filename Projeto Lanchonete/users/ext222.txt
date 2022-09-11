@@ -1,0 +1,14 @@
+1
+0
+0
+0
+3
+0
+0
+Nome: Caio
+CPF: 222
+Total = 26.50 
+11/09/2022 12:26
+Itens do pedido:
+1 - X-Salada         - Preço unitário: R$10.00  Valor: + 10.00
+3 - Salada de Frutas         - Preço unitário: R$5.50  Valor: + 16.50
