@@ -1,9 +1,9 @@
 <h6 align="center">
-    <img src="https://user-images.githubusercontent.com/54152996/175781610-9820e2ab-ab62-49f2-8a90-15fe58fd0bee.png" alt="Demo" widht="550" height="500"/>
+    <img src="https://user-images.githubusercontent.com/113300327/198895443-ef44e564-306a-472c-b6f0-07c7c6a2d32c.png" alt="Demo" widht="550" height="500"/>
 </h6>
 
 <h2 align="center">
-    Formula Racer
+    Lanchonete BurguerFEI
 </h2>
 
 Status: Finalizado ✅
