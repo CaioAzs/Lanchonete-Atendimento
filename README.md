@@ -39,7 +39,7 @@ Status: Finalizado ✅
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/113300327/198909875-016dc3b9-3385-4128-b4f6-e524aa2b1f69.png" alt="Autoatendimento" height="230">
-   <img src="https://user-images.githubusercontent.com/54152996/174653645-1763cea2-154d-46ed-ab30-966076b3023a.png" alt="Autoatendimento 2">
+   <img src="https://user-images.githubusercontent.com/113300327/198909906-14fff741-3d59-44a0-909f-d3ad4dbc77f9.png" alt="Autoatendimento 2" widht="340" height="230">
 </div>
 
 ## Contribuindo
