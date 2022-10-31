@@ -1,0 +1,8 @@
+1,X-Salada,17.00
+2,X-Burguer,18.00
+3,Cachorro Quente,6.50
+4,Misto Quente,8.00
+5,Salada de Frutas,5.50
+6,Refrigerante,5.00
+7,Suco Natural,8.50
+8,Palha Italiana,4.50
