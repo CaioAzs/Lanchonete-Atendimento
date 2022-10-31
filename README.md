@@ -2,9 +2,9 @@
     <img src="https://user-images.githubusercontent.com/113300327/198895443-ef44e564-306a-472c-b6f0-07c7c6a2d32c.png" alt="Demo" widht="300" height="250"/>
 </h6>
 
-<h2 align="center">
+<h1 align="center">
     Lanchonete BurguerFEI
-</h2>
+</h1>
 
 Status: Finalizado ✅
 
