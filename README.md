@@ -8,7 +8,7 @@
 
 Status: Finalizado ✅
 
-<p>O projeto BurguerFEI consiste na simulação de um atendimento de lanchonete no terminal da IDE, desenvolvido inteiramente com Python. Sua proposta é armazenar e manipular os pedidos e ações do cliente em arquivos. O projeto foi desenvolvido durante o curso de "Introdução a Lógica de Programação" do 1° Ciclo de Ciência da Computação FEI.</p>
+<p>O projeto BurguerAZS consiste na simulação de um atendimento de lanchonete no terminal da IDE, desenvolvido inteiramente com Python. Sua proposta é armazenar e manipular os pedidos e ações do cliente em arquivos. O projeto foi desenvolvido durante o curso de "Introdução a Lógica de Programação" do 1° Ciclo de Ciência da Computação FEI.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT%22%3E
